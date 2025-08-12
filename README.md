@@ -29,9 +29,9 @@ Auto.js 高级版基于 **Auto.js Pro 9.3.11** 停服后的完美复活版本，
 - ☁️ **完美热更新**：支持网络加载 JS 代码、快照源码、工程 Zip 代码，灵活部署。
   
 <div align="center">
-  <img src="./Snipaste_2025-07-23_11-26-54.png" alt="核心特性" width="200" />
-  <img src="./Snipaste_2025-07-23_11-27-13.png" alt="快速上手" width="200" />
-  <img src="./Snipaste_2025-07-23_11-27-18.png" alt="社区支持" width="200" />
+  <img src="./Snipaste_2025-07-23_11-26-54.png" alt="核心特性" width="300" />
+  <img src="./Snipaste_2025-07-23_11-27-13.png" alt="快速上手" width="300" />
+  <img src="./Snipaste_2025-07-23_11-27-18.png" alt="社区支持" width="300" />
 </div>
 
 ---
